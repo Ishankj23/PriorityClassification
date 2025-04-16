@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+nltk
+regex
+flask
+sentence-transformers
+langchain
+langdetect
+spacy
+textblob
+-e .
