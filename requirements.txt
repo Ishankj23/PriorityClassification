@@ -1,12 +1,9 @@
 pandas
 numpy
 scikit-learn
-nltk
-regex
-flask
-sentence-transformers
-langchain
+transformers
 langdetect
-spacy
-textblob
+torch
+nltk
+xgboost
 -e .
